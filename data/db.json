@@ -1,0 +1,24 @@
+{
+    "trips": [
+        {
+            "title": "Venice'te 2 gece",
+            "price": "3000₺",
+            "id": "1"
+        },
+        {
+            "title": "Pariste 4 gece",
+            "price": "5000₺",
+            "id": "2"
+        },
+        {
+            "title": "Newyork'ta 3 gece",
+            "price": "4000₺",
+            "id": "3"
+        },
+        {
+            "title": "Londra'da 5 gece",
+            "price": "8000₺",
+            "id": "4"
+        }
+    ]
+}
